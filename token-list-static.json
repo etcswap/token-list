@@ -1,8 +1,8 @@
 {
-  "name": "Default",
-  "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmba7fgoPwfQNhySoRdxqS5v6LMTzCj9dVAT1eNpoJ6h8n",
+  "name": "ETC Swap: Ethereum Classic",
+  "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/info/logo.png?raw=true",
   "keywords": ["ethereum", "classic", "etc", "etc swap"],
-  "timestamp": "2022-04-20T00:00:00.000+00:00",
+  "timestamp": "2022-04-24T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -10,27 +10,27 @@
       "name": "Wrapped Ether Classic",
       "symbol": "WETC",
       "decimals": 18,
-      "logoURI": "https://user-images.githubusercontent.com/19412160/161196085-f50e667c-77ca-4c68-a3ee-3d0330c75d22.png"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xa4a8fe83a3a023bb10760d28dd0baa98848ded50",
-      "name": "Pennies",
+      "name": "Pennies Mainnet",
       "symbol": "PENNIES",
       "decimals": 18,
-      "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreidoyv4kcabhwbdc4biqiwvoz5znqenncqmw46p3eyz7idydzj6xdy"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xa4a8fe83a3a023bb10760d28dd0baa98848ded50/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xfae5252ef90992d1a50ba025416a62312c31f447",
-      "name": "Dimes",
+      "name": "Dimes Mainnet",
       "symbol": "DIMES",
       "decimals": 18,
-      "logoURI": "https://www.cryptocompare.com/media/37746036/thedao.png"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfae5252ef90992d1a50ba025416a62312c31f447/logo.png?raw=true"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
