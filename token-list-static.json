@@ -1,6 +1,6 @@
 {
   "name": "ETC Swap List",
-  "logoURI": "https://github.com/etcswap/token-list/blob/master/etc-swap-list-logo.png?raw=true",
+  "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/etc-swap-list-logo.png",
   "keywords": ["ethereum classic", "etc", "classic", "ethereum", "etc swap"],
   "timestamp": "2022-04-25T00:00:00.000+00:00",
   "tokens": [
@@ -80,6 +80,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
