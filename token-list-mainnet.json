@@ -10,31 +10,39 @@
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "name": "Ethereum Foundation",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
+      "decimals": 6,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "name": "Tether",
       "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
+      "decimals": 6,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
+      "decimals": 8,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -43,14 +51,6 @@
       "symbol": "WETC",
       "decimals": 18,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
-    },
-    {
-      "chainId": 61,
-      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-      "name": "Wrapped Ethereum Foundation",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
     }
   ],
   "version": {
