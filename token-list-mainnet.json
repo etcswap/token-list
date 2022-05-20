@@ -18,7 +18,7 @@
       "name": "anyETH",
       "symbol": "anyETH",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/masanyETHter/blockchains/ethereum-classic/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -56,6 +56,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
