@@ -1,5 +1,5 @@
 {
-  "name": "ETC Swap List",
+  "name": "ETC Swap Test List",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/etc-swap-list-logo.png",
   "keywords": ["ethereum classic", "etc", "classic", "ethereum", "etc swap"],
   "timestamp": "2022-04-25T00:00:00.000+00:00",
@@ -15,10 +15,10 @@
     {
       "chainId": 61,
       "address": "0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642",
-      "name": "Wrapped Ether Classic",
-      "symbol": "WETC-old",
+      "name": "Imaginary Wrapped Ether Classic",
+      "symbol": "iWETC",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0x8a9F58dea0cf3D92DD8963f5a0a4C7aA9Fa76642/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -26,7 +26,7 @@
       "name": "Imaginary Ether Classic",
       "symbol": "iETC",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xe71ef48bdaa5df8cbfdac277491f51ee6ac40c29/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0xe71ef48bdaa5df8cbfdac277491f51ee6ac40c29/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -34,7 +34,7 @@
       "name": "Imaginary US Dollars",
       "symbol": "iUSD",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1df86dd5e271eace1289e08b6a3ada36de662c49/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0x1df86dd5e271eace1289e08b6a3ada36de662c49/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -42,7 +42,7 @@
       "name": "Imaginary US Quarters",
       "symbol": "i25C",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xd519c898d301668955a659867920ff2ad9dca731/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0xd519c898d301668955a659867920ff2ad9dca731/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -50,7 +50,7 @@
       "name": "Imaginary US Dimes",
       "symbol": "i10C",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x4d57bd7e1ff5476686b5f997baf5252b256edb0b/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0x4d57bd7e1ff5476686b5f997baf5252b256edb0b/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -58,7 +58,7 @@
       "name": "Imaginary US Nickels",
       "symbol": "i05C",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x76054f3ccd29bc0cf7430c7549c57a75991220e7/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0x76054f3ccd29bc0cf7430c7549c57a75991220e7/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -66,28 +66,28 @@
       "name": "Imaginary US Pennies",
       "symbol": "i01C",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xd06b428cb28180e79bbd7414b7dec871c954c873/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0xd06b428cb28180e79bbd7414b7dec871c954c873/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xa4a8fe83a3a023bb10760d28dd0baa98848ded50",
-      "name": "Pennies Mainnet",
+      "name": "Pennies",
       "symbol": "PENNIES",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xa4a8fe83a3a023bb10760d28dd0baa98848ded50/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0xa4a8fe83a3a023bb10760d28dd0baa98848ded50/logo.png?raw=true"
     },
     {
       "chainId": 61,
       "address": "0xfae5252ef90992d1a50ba025416a62312c31f447",
-      "name": "Dimes Mainnet",
+      "name": "Dimes",
       "symbol": "DIMES",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfae5252ef90992d1a50ba025416a62312c31f447/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/test-assets/0xfae5252ef90992d1a50ba025416a62312c31f447/logo.png?raw=true"
     }
   ],
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
