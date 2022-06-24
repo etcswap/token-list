@@ -38,6 +38,14 @@
     },
     {
       "chainId": 61,
+      "address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
+      "name": "Hebe Wallet",
+      "symbol": "HEBE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "name": "Multichain-Peg USDC",
       "symbol": "USDC",
@@ -71,7 +79,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
