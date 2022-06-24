@@ -39,7 +39,7 @@
     {
       "chainId": 61,
       "address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
-      "name": "Hebe Wallet",
+      "name": "HebeToken",
       "symbol": "HEBE",
       "decimals": 18,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD/logo.png?raw=true"
