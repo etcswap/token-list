@@ -1,7 +1,7 @@
 {
-  "name": "ETC Swap Tokens",
+  "name": "ETC Network Tokens",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/etc-swap-list-logo.png",
-  "keywords": ["ethereum classic", "etc", "etc swap"],
+  "keywords": ["ethereum classic", "etc", "etc tokens", "etc ico"],
   "timestamp": "2022-07-22T00:00:00.000+00:00",
   "tokens": [
     {
@@ -46,6 +46,14 @@
     },
     {
       "chainId": 61,
+      "address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
+      "name": "Hebe Wallet",
+      "symbol": "HEBE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "name": "USD Coin Multichain-Peg",
       "symbol": "USDC",
@@ -70,8 +78,8 @@
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 0,
+    "major": 0,
+    "minor": 1,
     "patch": 0
   }
 }
