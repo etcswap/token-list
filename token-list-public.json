@@ -54,6 +54,14 @@
     },
     {
       "chainId": 61,
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "name": "JellyBeanCash",
+      "symbol": "JellyBean",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "name": "USD Coin Multichain-Peg",
       "symbol": "USDC",
