@@ -62,6 +62,14 @@
     },
     {
       "chainId": 61,
+      "address": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+      "name": "Shiba Classic",
+      "symbol": "SHIBC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "name": "USD Coin Multichain-Peg",
       "symbol": "USDC",
