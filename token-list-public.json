@@ -33,7 +33,7 @@
       "address": "0x906102743F6d0B89514d6639eBAcC6368C1B1A32",
       "name": "DogeClassic",
       "symbol": "cDOGE",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x906102743F6d0B89514d6639eBAcC6368C1B1A32/logo.png?raw=true"
     },
     {
@@ -103,7 +103,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
