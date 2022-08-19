@@ -30,6 +30,14 @@
     },
     {
       "chainId": 61,
+      "address": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+      "name": "DogeClassic",
+      "symbol": "cDOGE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x906102743F6d0B89514d6639eBAcC6368C1B1A32/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
       "name": "Dai Stablecoin Multichain-Peg",
       "symbol": "DAI",
@@ -95,7 +103,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
