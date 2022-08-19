@@ -30,7 +30,7 @@
     },
     {
       "chainId": 61,
-      "address": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+      "address": "0x906102743F6d0B89514d6639eBAcC6368C1B1A32",
       "name": "DogeClassic",
       "symbol": "cDOGE",
       "decimals": 18,
@@ -103,7 +103,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
