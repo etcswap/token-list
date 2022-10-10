@@ -14,6 +14,14 @@
     },
     {
       "chainId": 61,
+      "address": "0xdA616532A458bC5B965B89D7d4cb50C7B9E30347",
+      "name": "Apecoin Classic ETC",
+      "symbol": "ACE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xdA616532A458bC5B965B89D7d4cb50C7B9E30347/logo.png?raw=true"
+    }
+    {
+      "chainId": 61,
       "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
       "name": "Binance Coin Multichain-Peg",
       "symbol": "BNB",
