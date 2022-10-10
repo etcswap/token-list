@@ -67,6 +67,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xdA616532A458bC5B965B89D7d4cb50C7B9E30347",
+      "name": "Apecoin Classic ETC",
+      "symbol": "ACE",
+      "decimals": 18,
+      "logoURI": "https://github.com/bosinupebi/assets/blob/master/blockchains/ethereum-classic/assets/0xda616532a458bc5b965b89d7d4cb50c7b9e30347/logo.png?raw=true"
     }
   ],
   "version": {
