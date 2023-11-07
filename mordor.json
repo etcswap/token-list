@@ -1,0 +1,45 @@
+{
+  "name": "ETC Swap Mordor",
+  "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
+  "keywords": ["etcswap", "mordor", "ethereum classic", "etc"],
+  "timestamp": "2022-05-11T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 63,
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "name": "Wrapped Ether",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
+    },
+    {
+      "chainId": 63,
+      "address": "0xcd58244e44c38fbA5eF4312c4B139fD683E5fca1",
+      "name": "Ethereum Classic Ecosystem",
+      "symbol": "ECO",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0xcd58244e44c38fbA5eF4312c4B139fD683E5fca1/logo.png?raw=true"
+    },
+    {
+      "chainId": 63,
+      "address": "0xcA1B2C49443552bb900F157DEb4d5C2E87879807",
+      "name": "USD Stablecoin",
+      "symbol": "USD",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0xcA1B2C49443552bb900F157DEb4d5C2E87879807/logo.png?raw=true"
+    },
+    {
+      "chainId": 63,
+      "address": "0x47eBCD166Af2FAEa22ab7D2BD67DE83C44f72565",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0x47eBCD166Af2FAEa22ab7D2BD67DE83C44f72565/logo.png?raw=true"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

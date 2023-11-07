@@ -1,8 +1,8 @@
 {
-  "name": "ETCswap",
+  "name": "EtcswapV2",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
-  "keywords": ["etcswap", "ethereum classic", "etc", "wrapped ether", "wrapped etc","wetc"],
-  "timestamp": "2022-05-06T00:00:00.000+00:00",
+  "keywords": ["etcswap", "ethereum classic", "etc"],
+  "timestamp": "2023-11-07T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -13,17 +13,145 @@
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
     },
     {
-      "chainId": 63,
-      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
-      "name": "Wrapped Ether",
-      "symbol": "WETC",
+      "chainId": 61,
+      "address": "0xdA616532A458bC5B965B89D7d4cb50C7B9E30347",
+      "name": "Apecoin Classic ETC",
+      "symbol": "ACE",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xdA616532A458bC5B965B89D7d4cb50C7B9E30347/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x271dc2DF1390a7b319CAE1711A454fa416D6A309",
+      "name": "TMWSTW Metaverse's BOB",
+      "symbol": "BOB",
+      "decimals": 0,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x271dc2DF1390a7b319CAE1711A454fa416D6A309/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+      "name": "ETCMC's ETCPOW",
+      "symbol": "ETCPOW",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
+      "name": "Dogelon Classic",
+      "symbol": "ELONC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x152BAEFdc3b7E60985addF66FaB95e01089ba958",
+      "name": "TMWSTW Metaverse's GREASE",
+      "symbol": "GREASE",
+      "decimals": 0,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x152BAEFdc3b7E60985addF66FaB95e01089ba958/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
+      "name": "Hebe Wallet",
+      "symbol": "HEBE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xEce01807F7d9B93529174533E997e5DE168B0b39",
+      "name": "SafeClassic",
+      "symbol": "SAFECLASSIC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xEce01807F7d9B93529174533E997e5DE168B0b39/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+      "name": "Shiba Classic",
+      "symbol": "SHIBC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xa1Ccb330165cda264f35De7630De084e83d39134",
+      "name": "TMWSTW Metaverse's SLAG",
+      "symbol": "SLAG",
+      "decimals": 0,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xa1Ccb330165cda264f35De7630De084e83d39134/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798",
+      "name": "TMWSTW Metaverse's Profits",
+      "symbol": "TMWSTW",
+      "decimals": 0,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+      "name": "Binance Coin Multichain-Peg",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+      "name": "Binance USD Multichain-Peg",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xb12c13e66AdE1F72f71834f2FC5082Db8C091358/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+      "name": "Dai Stablecoin Multichain-Peg",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "name": "Ethereum Foundation Multichain-Peg",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+      "name": "USD Coin Multichain-Peg",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "name": "Tether Multichain-Peg",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+      "name": "Wrapped Bitcoin Multichain-Peg",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png?raw=true"
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }
