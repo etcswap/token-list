@@ -33,7 +33,7 @@
       "address": "0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c",
       "name": "ClassicDAO",
       "symbol": "CLD",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c/logo.png?raw=true"
     },
     {
