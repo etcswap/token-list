@@ -1,7 +1,7 @@
 {
   "name": "EtcswapV2 Tokens",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
-  "keywords": ["etcswap", "ethereum classic tokens", "etc"],
+  "keywords": ["etcswap", "ethereum classic", "etc"],
   "timestamp": "2022-05-06T00:00:00.000+00:00",
   "tokens": [
     {
