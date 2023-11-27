@@ -46,6 +46,14 @@
     },
     {
       "chainId": 61,
+      "address": "0xfDCBDad8226604a0101774c3961BBb6A158547Cb",
+      "name": "ETCX",
+      "symbol": "ETCX",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfDCBDad8226604a0101774c3961BBb6A158547Cb/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
       "address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
       "name": "Dogelon Classic",
       "symbol": "ELONC",
