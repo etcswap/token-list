@@ -2,7 +2,7 @@
   "name": "EtcswapV2",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
   "keywords": ["etcswap", "ethereum classic", "etc"],
-  "timestamp": "2023-11-07T00:00:00.000+00:00",
+  "timestamp": "2024-01-13T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -38,27 +38,19 @@
     },
     {
       "chainId": 61,
-      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
-      "name": "ETCMC's ETCPOW",
-      "symbol": "ETCPOW",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png?raw=true"
-    },
-    {
-      "chainId": 61,
-      "address": "0xfDCBDad8226604a0101774c3961BBb6A158547Cb",
-      "name": "ETCX",
-      "symbol": "ETCX",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xfDCBDad8226604a0101774c3961BBb6A158547Cb/logo.png?raw=true"
-    },
-    {
-      "chainId": 61,
       "address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
       "name": "Dogelon Classic",
       "symbol": "ELONC",
       "decimals": 18,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+      "name": "ETCMC's ETCPOW",
+      "symbol": "ETCPOW",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -75,6 +67,14 @@
       "symbol": "HEBE",
       "decimals": 18,
       "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD/logo.png?raw=true"
+    },
+    {
+      "chainId": 61,
+      "address": "0xBa991144fFDbe47936703606A6e74194Db0DA8Aa",
+      "name": "PepeCoin Classic",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0xBa991144fFDbe47936703606A6e74194Db0DA8Aa/logo.png?raw=true"
     },
     {
       "chainId": 61,
@@ -111,7 +111,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
