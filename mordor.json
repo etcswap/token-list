@@ -1,8 +1,8 @@
 {
   "name": "Mordor Testnet",
-  "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/wrapped-ether.svg",
+  "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png",
   "keywords": ["etcswap", "mordor", "ethereum classic", "etc"],
-  "timestamp": "2022-05-11T00:00:00.000+00:00",
+  "timestamp": "2025-03-07T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 63,
@@ -10,36 +10,52 @@
       "name": "Wrapped Ether",
       "symbol": "WETC",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
     },
     {
       "chainId": 63,
-      "address": "0xcd58244e44c38fbA5eF4312c4B139fD683E5fca1",
-      "name": "Ethereum Classic Ecosystem",
+      "address": "0x5ab686aE6E69a7E40493fDF792540a28d8721d37",
+      "name": "Ecosystem Reward",
       "symbol": "ECO",
       "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0xcd58244e44c38fbA5eF4312c4B139fD683E5fca1/logo.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
     },
     {
       "chainId": 63,
-      "address": "0xcA1B2C49443552bb900F157DEb4d5C2E87879807",
-      "name": "USD Stablecoin",
-      "symbol": "USD",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0xcA1B2C49443552bb900F157DEb4d5C2E87879807/logo.png?raw=true"
+      "address": "0xDE093684c796204224BC081f937aa059D903c52a",
+      "name": "USC",
+      "symbol": "USC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
     },
     {
       "chainId": 63,
-      "address": "0x47eBCD166Af2FAEa22ab7D2BD67DE83C44f72565",
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "decimals": 18,
-      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/mordor/assets/0x47eBCD166Af2FAEa22ab7D2BD67DE83C44f72565/logo.png?raw=true"
+      "address": "0xD333787e69DbfC47E67C59441e392Eb530b3DC19",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
+    },
+    {
+      "chainId": 63,
+      "address": "0xfC95e5e3f912823eE531687E2Df137940ef3BA2c",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
+    },
+    {
+      "chainId": 63,
+      "address": "0xbe147F327704d4F62dCA47172261585D7b12eEEC",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
     }
   ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }
