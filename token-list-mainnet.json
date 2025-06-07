@@ -1,18 +1,12 @@
 {
   "name": "ETCswap V2",
-  "timestamp": "2025-06-07T00:00:00.000Z",
-  "version": {
-    "major": 4,
-    "minor": 2,
-    "patch": 0
-  },
-  "tags": {},
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
   "keywords": [
     "etcswap v2",
     "ethereum classic",
     "mordor testnet"
   ],
+  "timestamp": "2025-06-07T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -110,5 +104,10 @@
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798/logo.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 4,
+    "minor": 3,
+    "patch": 0
+  }
 }
