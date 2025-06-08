@@ -2,7 +2,7 @@
   "name": "ETCswap V2",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
   "keywords": ["etcswap v2", "ethereum classic", "etc"],
-  "timestamp": "2025-06-07T00:00:00.000+00:00",
+  "timestamp": "2025-06-08T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -31,7 +31,7 @@
     {
       "chainId": 61,
       "address": "0x80365F3f6d3C335C3f2b7D72cD7Fa8Eb56c933c9",
-      "name": "2015 Relic: bitcoin",
+      "name": "2015 Relic bitcoin",
       "symbol": "BTCC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x80365F3f6d3C335C3f2b7D72cD7Fa8Eb56c933c9/logo.png"
@@ -39,7 +39,7 @@
     {
       "chainId": 61,
       "address": "0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de",
-      "name": "2015 Relic: AyeAyeCoin",
+      "name": "2015 Relic AyeAyeCoin",
       "symbol": "WAACC",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de/logo.png"
@@ -47,7 +47,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
