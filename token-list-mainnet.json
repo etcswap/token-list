@@ -2,7 +2,7 @@
   "name": "ETCswap V2",
   "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
   "keywords": ["etcswap v2", "ethereum classic", "etc"],
-  "timestamp": "2025-06-08T00:00:00.000+00:00",
+  "timestamp": "2025-06-09T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 61,
@@ -30,6 +30,22 @@
     },
     {
       "chainId": 61,
+      "address": "0xAccc4ae3a58E8bC3115E67eE67852044069F154A",
+      "name": "Cypher by ETCMC",
+      "symbol": "CYPH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xAccc4ae3a58E8bC3115E67eE67852044069F154A/logo.png"
+    },
+    {
+      "chainId": 61,
+      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+      "name": "ETCPOW by ETCMC",
+      "symbol": "ETCPOW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png"
+    },
+    {
+      "chainId": 61,
       "address": "0x80365F3f6d3C335C3f2b7D72cD7Fa8Eb56c933c9",
       "name": "2015 Relic bitcoin",
       "symbol": "BTCC",
@@ -47,7 +63,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
